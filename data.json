@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "info": {
+        "title": "REVENUE",
+        "unit": "€"
+      },
+      "values": [
+        {
+          "label": "Tablet",
+          "value": "120000",
+          "color": "#8ed543"
+        },
+        {
+          "label": "Smartphone",
+          "value": "80000",
+          "color": "#486f24"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "IMPRESIONS",
+        "unit": ""
+      },
+      "values": [
+        {
+          "label": "Tablet",
+          "value": "20000000",
+          "color": "#b2dfec"
+        },
+        {
+          "label": "Smartphone",
+          "value": "30000000",
+          "color": "#325665"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "VISITS",
+        "unit": ""
+      },
+      "values": [
+        {
+          "label": "Tablet",
+          "value": "480000000",
+          "color": "#efc433"
+        },
+        {
+          "label": "Smartphone",
+          "value": "120000000",
+          "color": "#bf581f"
+        }
+      ]
+    }
+  ]
+}
